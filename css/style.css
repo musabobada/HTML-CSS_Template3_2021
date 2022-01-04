@@ -1595,4 +1595,8 @@ p::first-letter {
 .footer .copyright span {
   color: #f00;
 }
+.footer .copyright a {
+  color: #fff;
+  font-weight: bold;
+}
 /* end footer */
